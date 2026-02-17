@@ -1,0 +1,9 @@
+{
+	"name": "anshadfansh",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3a8957b6-b7b5-464e-85bb-de0e5f0dcab2",
+		"tenantId": "86098776-6cd5-447d-89a6-4d7db2959c11"
+	}
+}
